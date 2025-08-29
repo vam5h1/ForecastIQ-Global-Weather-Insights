@@ -1,4 +1,4 @@
-# 🌦 Weather API Power BI Dashboard  
+# 🌦 ForecastIQ – Real-Time Weather Insights
 
 ---
 

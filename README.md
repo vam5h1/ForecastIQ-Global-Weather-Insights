@@ -1,4 +1,4 @@
-# 🌦 ForecastIQ: Real Time Weather Insights
+# 🌦 ForecastIQ: Global Weather Insights
 
 ---
 

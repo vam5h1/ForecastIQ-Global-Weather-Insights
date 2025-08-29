@@ -8,10 +8,10 @@ An interactive **Power BI dashboard** that visualizes **real-time and forecast w
 
 This project demonstrates how external APIs can be integrated into **Power BI** to deliver actionable insights about **climate conditions, weather forecasts, and air quality metrics** in a highly visual and interactive way.  
 
-⚡ **Every time you hit the Refresh button in the Power BI ribbon, the dashboard fetches live data from the Weather API for selected locations — keeping your insights always up to date.**
-
 
 ![Weather API Dashboard](./Screenshot%202025-08-29%20085734.png)  
+
+⚡ **Every time you hit the Refresh button in the Power BI ribbon, the dashboard fetches live data from the Weather API for selected locations — keeping your insights always up to date.**
 
 ---
 

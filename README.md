@@ -86,10 +86,10 @@ This project highlights how **Power BI + APIs** can be combined to deliver **rea
 
 ## 👥 Who Benefits from This Dashboard?  
 
-- **Government & NGOs** – Track climate and weather patterns  
-- **Businesses & Supply Chain Managers** – Anticipate weather disruptions  
-- **Travel & Tourism Industry** – Plan based on seasonal/weather conditions  
-- **Data Enthusiasts & Analysts** – Learn API integration into Power BI  
+- **Government & NGOs** – Track climate and weather patterns.  
+- **Businesses & Supply Chain Managers** – Anticipate weather disruptions.  
+- **Travel & Tourism Industry** – Plan based on seasonal/weather conditions.  
+- **Data Enthusiasts & Analysts** – Learn API integration into Power BI.  
 
 ---
 
